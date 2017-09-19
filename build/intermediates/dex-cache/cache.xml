@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/parasdhawan/Documents/Git/Retrofitexample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/parasdhawan/Documents/Git/Retrofitexample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cc38b0d307cf028e3dab752e4f81cd70305b7a69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/parasdhawan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/parasdhawan/Documents/Git/Retrofitexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_baf709fe192996b9aff740e84e90f516bfd2204b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/parasdhawan/Documents/Git/Retrofitexample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8cdcec2bfbf1ae4ff82592ea0cf20f0eb5a2ff8e">
+        <dex dex="/Users/parasdhawan/Documents/Git/Retrofitexample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_af1efc3669e0473ce2176d18de285c5588dd236e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/parasdhawan/.android/build-cache/71f8f2cf12611a032f3df1caa972a76ae039cd75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/parasdhawan/Documents/Git/Retrofitexample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45a794f608021e56c7902ba15ed58d55e941d00e/classes.dex" />
+    </item>
+
+</items>
